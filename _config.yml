@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
+  name             : "Jiayao Yang"
   avatar           : "jiayao.png"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  bio              : "PhD student at University of Michigan <b>rlobos@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
   googlescholar    : ""
-  email            : #"rlobos@usc.edu"
+  email            : #"jiayao at umich dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
